@@ -4,6 +4,9 @@ EfficientNet/log/model_best.pth.tar
 EfficientNet/model_pytorch/__pycache__/model.cpython-37.pyc
 EfficientNet/model_pytorch/__pycache__/model.cpython-37.pyc
 
+dataset/
+weights/
+
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
